@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+}
+.wrapper > div{
+    background-color: rgb(175, 94, 230);
+    color: white;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 18px;
+    border-radius: 25px;
+}
+.shadow1{
+    box-shadow: 10px 10px black;
+}
+.shadow2{
+    box-shadow: 10px 10px 5px black;
+}
+.shadow3{
+    box-shadow: 10px 10px 5px 5px black;
+}
+.shadow4{
+    box-shadow: 10px 10px 5px gray;
+}
